@@ -1,4 +1,4 @@
-# 🌱 Spring Boot Examples  
+# 🌱 Spring Boot Examples   
 
 This repository contains simple examples demonstrating **Spring Boot concepts** such as Bean, Constructor Injection, Setter Injection, Autowiring, Component Scanning, and Loose Coupling.  
 
